@@ -13,7 +13,7 @@ ARt chat wurde gemeinsam von [nextmuseum.io](https://nextmuseum.io) und dem [MIR
 Zur Benutzung werden Smartphones oder Tablets benötigt, die entweder über ein iOS oder ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android ab *(Version 8.X)*, iOS *(ab Version 12.X)* zusätzlich muss das Gerät ARCore oder ARKit fähig sein. Die App ist ca. 125 MB groß und es wird empfohlen, diese vorab im WLAN herunterzuladen.<br>
 
 ➡️ [Apple App Store](https://apps.apple.com/de/app/artchat/id1594639117)<br>
-➡️ [Google Play Store](https://play.google.com/store/apps/details?id=com.immersal.sdk.mapper).<br>
+➡️ [Google Play Store](https://play.google.com/store/apps/details?id=de.nextmuseum.io.ARtchat).<br>
 <br>
 <br>
 <br>
