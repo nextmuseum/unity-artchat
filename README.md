@@ -74,7 +74,9 @@ Die Build Plattform iOS oder Android sollte ebenfalls installiert werden.
 # 🛠️ Unity Doku & Server Schnittstelle
 1. [Android/iOS Apps: Unity](./docs/unity-development.md)
 2. [REST-API + Management App: Web](./docs/web-development.md)
-
+<br>
+<br>
+<br>
 # Credits 
 Auftraggeber*in/Rechteinhaber*in : Stiftung Museum Kunstpalast<br>
 <br>
