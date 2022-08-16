@@ -71,8 +71,7 @@ Version: 2020.3.20<br>
 [Unity download archive](https://unity3d.com/get-unity/download/archive)<br>
 Die Build Plattform iOS oder Android sollte ebenfalls installiert werden.
 
-# 🛠️ weiteres
-## Entwicklung und Veröffentlichung
+# 🛠️ Unity Doku & Server Schnittstelle
 1. [Android/iOS Apps: Unity](./docs/unity-development.md)
 2. [REST-API + Management App: Web](./docs/web-development.md)
 
