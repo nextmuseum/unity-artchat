@@ -17,7 +17,8 @@ Zur Benutzung werden Smartphones oder Tablets benötigt, die entweder über ein 
 <br>
 <br>
 <br>
-# 🛠️ Für Entwickler innen: Übersicht der Komponenten
+# 🛠️ Infos Für Entwickler innen
+## Übersicht der Komponenten
 Dieses Repository gibt Informationen zur Zusammensetzung der Teile der App inkl. Backend. Da die Applikation auf mehrere Teile basiert, wird hier ein Überblick hergestellt.
 
 ![Architektur](./docs/images/artchat-architecture.png "Architektur")
@@ -70,8 +71,8 @@ Version: 2020.3.20<br>
 [Unity download archive](https://unity3d.com/get-unity/download/archive)<br>
 Die Build Plattform iOS oder Android sollte ebenfalls installiert werden.
 
-# 🛠️ Entwicklung und Veröffentlichung
-
+# 🛠️ weiteres
+## Entwicklung und Veröffentlichung
 1. [Android/iOS Apps: Unity](./docs/unity-development.md)
 2. [REST-API + Management App: Web](./docs/web-development.md)
 
