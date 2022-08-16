@@ -9,13 +9,15 @@ Wir wollen die Autor*innenschaft von Ausstellungstexten hinterfragen und erweite
 ## Entstehungskontext
 ARt chat wurde gemeinsam von [nextmuseum.io](https://nextmuseum.io) und dem [MIREVI Lab](https://mirevi.de) der [Hochschule Düsseldorf](https://medien.hs-duesseldorf.de) entwickelt und mit [vobe.digital](https://vobe.digital) veröffentlicht. nextmuseum.io ist eine digitale Community Plattform für Schwarmkuration und Co-Kreation, initiiert vom [NRW-Forum](https://www.nrw-forum.de)/[Kunstpalast Düsseldorf](https://www.kunstpalast.de) und dem [Museum Ulm](https://museumulm.de). Gefördert von der Kulturstiftung des Bundes im Fonds Digital im Programm Kultur Digital sowie von der Beauftragten der Bundesregierung für Kultur und Medien.
 
-# 📱 Installation der iOS/Android App 
+# 📱 Installation der ARt chat App 
 Zur Benutzung werden Smartphones oder Tablets benötigt, die entweder über ein iOS oder ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android ab *(Version 8.X)*, iOS *(ab Version 12.X)* zusätzlich muss das Gerät ARCore oder ARKit fähig sein. Die App ist ca. 125 MB groß und es wird empfohlen, diese vorab im WLAN herunterzuladen.<br>
 
 ➡️ [Apple App Store](https://apps.apple.com/de/app/artchat/id1594639117)<br>
 ➡️ [Google Play Store](https://play.google.com/store/apps/details?id=com.immersal.sdk.mapper).<br>
-
-# Übersicht der Komponenten
+<br>
+<br>
+<br>
+# 🛠️ Für Entwickler innen: Übersicht der Komponenten
 Dieses Repository gibt Informationen zur Zusammensetzung der Teile der App inkl. Backend. Da die Applikation auf mehrere Teile basiert, wird hier ein Überblick hergestellt.
 
 ![Architektur](./docs/images/artchat-architecture.png "Architektur")
@@ -95,7 +97,6 @@ Code und Dokumentation in diesem Repositorium wurden begutachtet und erweitert d
 „ARt Chat“ ist eine Marke der Stiftung Museum Kunstpalast. Die Marke kann von anderen gemeinnützigen Körperschaften für Software genutzt werden, die auf dem veröffentlichten Code (Repositorium) basiert. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
 <br>
 <br>
-to be defined...
 
 # Lizenz
 Herausgeber: Stiftung Museum Kunstpalast<br>
