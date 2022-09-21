@@ -1,0 +1,9 @@
+*.vsconfig
+*.sln
+Assets/.vscode/
+Library/
+obj/
+Logs/
+Packages/
+.vs/
+*.
