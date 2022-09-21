@@ -1,0 +1,21 @@
+{
+    "name": "TestUtilities",
+    "rootNamespace": "TestUtilities",
+    "references": [
+        "GUID:38424e5d82fa14c37aff0167f112d0c2",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:b1def68c159be4ce4b7cccfa8d78b9a0"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

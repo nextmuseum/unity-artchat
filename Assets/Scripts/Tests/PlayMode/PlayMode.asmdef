@@ -1,0 +1,29 @@
+{
+    "name": "PlayMode",
+    "rootNamespace": "PlayModeTests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Scripts",
+        "Unity.TextMeshPro",
+        "UniTask",
+        "BoundfoxStudios.FluentAssertions",
+        "ImmersalSDK",
+        "Utility",
+        "TestUtilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "NSubstitute.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

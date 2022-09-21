@@ -1,0 +1,30 @@
+{
+    "name": "EditMode",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:4c36641d7f59847b88354b2e1a409234",
+        "GUID:38424e5d82fa14c37aff0167f112d0c2",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:ee84683dbe8c04a668b415fd02cd32d0",
+        "GUID:b1def68c159be4ce4b7cccfa8d78b9a0",
+        "GUID:e372c541aba5148868e12aa078ca7c20"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "zxing.unity.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

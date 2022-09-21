@@ -1,0 +1,27 @@
+{
+    "name": "Scripts",
+    "rootNamespace": "ARtChat",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:4f4944cf73a4649dba52e8bdd8b27bce",
+        "GUID:ee84683dbe8c04a668b415fd02cd32d0",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:b1def68c159be4ce4b7cccfa8d78b9a0",
+        "GUID:92703082f92b41ba80f0d6912de66115",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:b59129aa05e80924883f08325d248a7a",
+        "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
+        "GUID:1e8e55397bd004beaba78a667566665f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
